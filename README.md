@@ -19,10 +19,10 @@ built using C, Flex (Lex), and Bison (YACC) — covering all five classic compil
 
 | Field            | Details                                                  |
 |------------------|----------------------------------------------------------|
-| **Name**         | YOUR NAME HERE                                           |
-| **Register No.** | YOUR REG NO HERE                                         |
+| **Name**         | HARSITHA G P                                             |
+| **Register No.** | RA2311026050197                                          |
 | **Subject**      | Compiler Design                                          |
-| **Institution**  | YOUR INSTITUTION HERE                                    |
+| **Institution**  | SRM INSTITUTE OF SCIENCE and TECHNOLOGY                  |
 
 ---
 
