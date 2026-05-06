@@ -29,7 +29,7 @@ built using C, Flex (Lex), and Bison (YACC) — covering all five classic compil
 ## 📁 Project Structure
 
 ```
-Compiler-Design-DSL_RegNo_Name/
+Compiler-Design-DSL_RA2311026050197_Harsitha/
 │
 ├── src/
 │   ├── lexer.l          # Flex – Lexical Analyser
