@@ -251,6 +251,3 @@ Semantic error: variable 'b' used before assignment
 
 ---
 
-<div align="center">
-Made with ❤️ for Compiler Design
-</div>
